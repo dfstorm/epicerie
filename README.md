@@ -1,7 +1,7 @@
 # epicerie
 UI pour accès aux données.
 
-l'ensemble des fichiers et leur contenue sont sous licence GNU GPL sauf si autrement indiqué.
+l'ensemble des fichiers et leur contenu sont sous licence GNU GPL sauf si autrement indiqué.
 
 Ce base sur une version réduite de mon propre système "MVC" en php "Aurelius".
 
